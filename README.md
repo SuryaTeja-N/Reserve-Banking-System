@@ -1,8 +1,7 @@
 <h1>
   <p align="center">
-    <img src="./docs/readme-assets/royal-reserve-bank-logo.png" alt="Royal Reserve Bank" width="300">
     </br>
-    Royal Reserve Bank
+     Reserve Bank System
   </p>
 </h1>
 
@@ -32,7 +31,7 @@
 
 # About 🚀
 
-The Royal Reserve Bank is a digital banking solution that utilizes a microservices architecture. It incorporates the latest Spring Boot and Spring Cloud technologies to implement a range of architectural patterns such as service discovery, centralized configuration, distributed tracing, circuit breaker, cache-aside or event-driven architecture.
+The Reserve Bank System is a digital banking solution that utilizes a microservices architecture. It incorporates the latest Spring Boot and Spring Cloud technologies to implement a range of architectural patterns such as service discovery, centralized configuration, distributed tracing, circuit breaker, cache-aside or event-driven architecture.
 <p>
 It consists of several independent modules that work together to provide a scalable and fault-tolerant system. The modules communicate with each other through well-defined APIs and leverage databases for data storage to perform various banking activities, such as account creation, money transfers, asset management and sending email or SMS notifications.
 
@@ -243,11 +242,11 @@ Contributions to the Reserve Bank project are welcome! If you encounter any bugs
 
 # License 🌐
 
-The Royal Reserve Bank project is licensed under the [MIT License.](./LICENSE)
+The Reserve Bank System project is licensed under the [MIT License.](./LICENSE)
 
 # Troubleshooting and Support ❓
 
-I'm here to help! If you have any questions, feedback, or need assistance, please feel free to reach out to me. You can send me a message via discussions [here.](https://github.com/zoltanvin/royal-reserve-bank/discussions/categories/q-a)
+I'm here to help! If you have any questions, feedback, or need assistance, please feel free to reach out to me. You can send reach me through [here.](neerukattusurya1@gmail.com)
 
 <p>
 
